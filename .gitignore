@@ -1,0 +1,4 @@
+# the gitignore file for the repo "hellos"
+__pycache__/
+# ignore any directory named __pycache__
+

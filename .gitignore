@@ -1,4 +1,8 @@
 # the gitignore file for the repo "hellos"
-__pycache__/
+
 # ignore any directory named __pycache__
+__pycache__/
+
+# ignore a.out files that may be compiled from C and so on
+a.out
 

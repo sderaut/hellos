@@ -6,3 +6,8 @@ __pycache__/
 # ignore a.out files that may be compiled from C and so on
 a.out
 
+# ignore .class files that may be compiled from Java
+*.class
+# ignore .jar files that may be packed by Java
+*.jar
+

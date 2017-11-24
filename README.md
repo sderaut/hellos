@@ -9,6 +9,7 @@ They've all been manually tested to run. That's the point of hello world program
 + C : hello.c
 + Python 3 : hello.py
 + Java : HelloTemplate.java
++ shell : hellos.sh (gets everyone to say hello, compatible with bash)
 
 ----
  

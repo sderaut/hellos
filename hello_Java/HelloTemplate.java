@@ -1,4 +1,4 @@
-// package hellos;
+package hello_Java;
 
 /**
  * This is the Javadoc for a command line Hello World program in Java.
@@ -13,6 +13,7 @@ public class HelloTemplate {
         for (String arg : args) {
             if (arg.equals("-h")) {
                 System.out.println("This program provides little help yet.");
+                System.exit(0);
             }
         }
         

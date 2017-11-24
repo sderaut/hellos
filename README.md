@@ -1,5 +1,16 @@
-This file is the "README" for my repo "hellos" on GitHub.
+- hellos
 
-This file is supposed to be in markdown, but I don't know any of that from memory yet. So it's just an ASCII text file so far.
+These are just some hello world programs.
 
-GitHub's web interface suggested that the repo have one of these files, so here it is. Maybe I'll find out later what this file is supposed to contain.
+They've all been manually tested to run. That's the point of hello world programs. Sometimes getting a programming language running as far as "hello world" is half the battle of starting to use it.
+
+-- Languages covered here so far:
+
++ C : hello.c
++ Python 3 : hello.py
++ Java : HelloTemplate.java
+
+----
+ 
+*(This page is formatted in the github version of markdown)*
+

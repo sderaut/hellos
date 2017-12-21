@@ -10,8 +10,9 @@ They've all been manually tested to run. That's the point of hello world program
 + Python 3 : hello.py
 + Java : HelloTemplate.java
 + shell : hellos.sh (gets everyone to say hello, compatible with bash)
++ D : hello.d
 
 ----
  
-*(This page is formatted in the github version of markdown)*
+*(This page is formatted in the github version of markdown.)*
 
